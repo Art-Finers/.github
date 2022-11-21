@@ -33,24 +33,6 @@ The objective is to create a **transparent** and **decentralized** ecosystem tha
 
 ---
 
-## Architecture
-
-Our repository for the project has the following architecture:
-
-```
-* frontend : Contains the react application that runs our frontend and which is connected to the Massa's blockchain
-
-* smart-contract : Contains the implementation of our smart contracts on the blockchain, precisely to store and get our samples in the different blocks
-
-* samples : Few examples of music samples on the repository
-
-* ggh.png and samply.png : Various logo used in the README
-
-* README.md
-```
-
----
-
 ## Business Canva
 
 <img src="https://github.com/Art-Finers/GGH-3/blob/main/Business_Canva.png" alt="Business Canva">
